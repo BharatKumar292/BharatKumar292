@@ -1,7 +1,5 @@
 <div align="center">
 
-# Bharat Kumar
-
 <img width="1983" height="793" alt="BharatKumar_DataEngineer" src="https://github.com/user-attachments/assets/f4963820-d766-4016-9fa1-f40a1ad542a6" />
 
 ### Data Science & Machine Learning
