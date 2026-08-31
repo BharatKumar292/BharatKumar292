@@ -50,11 +50,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Cloud & Tools**
-
 ![Hopsworks](https://img.shields.io/badge/Hopsworks-FF6F00?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![NI Multisim](https://img.shields.io/badge/NI%20Multisim-FF6B00?style=flat&logoColor=white)
 
 **Databases**
 
@@ -91,6 +92,7 @@ Networking projects and experiments using Cisco Packet Tracer, including network
 - Cloud Computing
 - Computer Networks
 - Software Development
+- Digital Logic Design
 
 ---
 
@@ -98,8 +100,6 @@ Networking projects and experiments using Cisco Packet Tracer, including network
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=BharatKumar292&show_icons=true&theme=dark&hide_border=true" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BharatKumar292&theme=dark&hide_border=true" />
 
 </div>
