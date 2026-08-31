@@ -2,16 +2,24 @@
 
 <img width="1983" height="793" alt="BharatKumar_DataEngineer" src="https://github.com/user-attachments/assets/f4963820-d766-4016-9fa1-f40a1ad542a6" />
 
-### Data Science & Machine Learning
-
-**BSCS — Sukkur IBA University**
-
 [📧 Gmail](mailto:bharatsd759@gmail.com) •
 [💼 LinkedIn](https://www.linkedin.com/in/bharat-kumar-0a207a3a7)
 
 </div>
 
 ---
+
+</div>
+
+bharat = {
+    "role"      : "Data Science & ML",
+    "school"    : "BS CS — Sukkur IBA University",
+    "stack"     : ["Python", "Scikit-learn", "Pandas", "NumPy", "SQL", "React"],
+    "ml"        : "Regression · Classification · Feature Engineering · Model Evaluation",
+    "projects"  : "End-to-end ML · AQI Prediction · Data Pipelines · Dashboards",
+    "platforms" : "Hopsworks · Streamlit · GitHub Actions",
+    "open_to"   : ["Internships", "Junior ML Roles", "Data Science", "Collaborative Projects"],
+}
 
 ## 🚀 Projects
 
@@ -65,6 +73,8 @@ Machine learning projects involving data analysis, feature engineering, regressi
 ## 📊 GitHub
 
 <div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=BharatKumar292&show_icons=true&theme=dark&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BharatKumar292&theme=dark&hide_border=true" />
 
