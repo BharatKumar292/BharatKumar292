@@ -75,22 +75,33 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 🌫️ AQI Predictor
-Machine learning system for predicting and forecasting Air Quality Index using real-time environmental and weather data.
+An end-to-end AQI prediction system for Sukkur, Karachi, and Lahore using machine learning, Hopsworks Feature Store, model registry, GitHub Actions, and Streamlit.
 
-**Tech:** Python • Pandas • Scikit-learn • OpenWeather API • Hopsworks • Streamlit
+**Tech:** Python, Pandas, NumPy, Scikit-learn, Hopsworks, Streamlit, GitHub Actions
 
-### 📝 Student Gradebook
-Java-based project for managing student marks, averages and gradebook-related operations.
+---
 
-**Tech:** Java • OOP
+### 📊 Data Cleaning & Visualization Project
+A complete data preprocessing pipeline that transforms a raw, messy retail sales dataset into a clean, analysis-ready dataset with visual insights and data storytelling.
+
+**Tech:** Python, Pandas, NumPy, Matplotlib, Plotly
+
+---
 
 ### 🌐 Computer Networks
-Networking projects and experiments using Cisco Packet Tracer, including network configuration and communication concepts.
+Network configuration and troubleshooting projects using Cisco Packet Tracer and Wireshark, covering networking concepts, protocols, and network analysis.
 
-**Tech:** Cisco Packet Tracer • Networking 
+**Tech:** Cisco Packet Tracer, Wireshark
+
+---
+
+### 🔌 Digital Logic Design
+Digital circuit design and simulation using NI Multisim, covering logic gates, combinational circuits, and digital system concepts.
+
+**Tech:** NI Multisim 
 
 ---
 
