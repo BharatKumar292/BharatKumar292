@@ -68,8 +68,6 @@ Machine learning projects involving data analysis, feature engineering, regressi
 
 <img src="https://github-readme-stats.vercel.app/api?username=BharatKumar292&show_icons=true&theme=dark&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BharatKumar292&theme=dark&hide_border=true" />
-
 </div>
 
 ---
