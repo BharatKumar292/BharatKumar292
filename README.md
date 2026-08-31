@@ -82,21 +82,15 @@ An end-to-end AQI prediction system for Sukkur, Karachi, and Lahore using machin
 
 **Tech:** Python, Pandas, NumPy, Scikit-learn, Hopsworks, Streamlit, GitHub Actions
 
----
-
 ### 📊 Data Cleaning & Visualization Project
 A complete data preprocessing pipeline that transforms a raw, messy retail sales dataset into a clean, analysis-ready dataset with visual insights and data storytelling.
 
 **Tech:** Python, Pandas, NumPy, Matplotlib, Plotly
 
----
-
 ### 🌐 Computer Networks
 Network configuration and troubleshooting projects using Cisco Packet Tracer and Wireshark, covering networking concepts, protocols, and network analysis.
 
 **Tech:** Cisco Packet Tracer, Wireshark
-
----
 
 ### 🔌 Digital Logic Design
 Digital circuit design and simulation using NI Multisim, covering logic gates, combinational circuits, and digital system concepts.
