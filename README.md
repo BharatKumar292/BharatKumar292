@@ -1,111 +1,122 @@
-# Hi, I'm Bharat Kumar 👋
+<div align="center">
+<img width="1983" height="793" alt="BharatKumar_DataEngineer" src="https://github.com/user-attachments/assets/2a65c45d-c3de-4c18-8cda-23c3c8f859a3" />
 
-### BSCS Student | Data Science & Machine Learning Enthusiast | Developer
+# Bharat Kumar
 
-I'm a Computer Science student at **Sukkur IBA University** who enjoys learning how technology works and building practical projects.
+**Data Science & Machine Learning Enthusiast**
 
-Currently, I'm focusing on **Data Science, Machine Learning, Python, Java, Web Development, and Computer Networks**.
+BSCS — Sukkur IBA University
 
----
+</div>
 
-## 🚀 About Me
-
-- 🎓 BSCS Student at **Sukkur IBA University**
-- 🐍 Learning and building projects with **Python**
-- 🤖 Exploring **Data Science & Machine Learning**
-- 🌫️ Currently working on an **AQI Prediction System**
-- ☕ Learning **Java & Object-Oriented Programming**
-- 🌐 Learning **Web Development with React**
-- 🌐 Studying **Computer Networks & Cisco Packet Tracer**
-- ☁️ Exploring **Cloud, MLOps & Hopsworks**
-- 📚 Always learning and improving my technical skills
-
----
-
-## 🛠️ Technologies & Tools
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Data Science & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis
-- Feature Engineering
-- Regression
-- Model Evaluation
-- Random Forest
-- Ridge Regression
-- Machine Learning Pipelines
-
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-- Hopsworks
-- Cisco Packet Tracer
-- Jupyter Notebook
-- Streamlit
-- GitHub Actions
+```python
+bharat = {
+    "role"      : "Data Science & ML",
+    "school"    : "BS CS — Sukkur IBA University",
+    "stack"     : ["Python", "Scikit-learn", "Pandas", "NumPy", "SQL", "React"],
+    "ml"        : "Regression · Classification · Feature Engineering · Model Evaluation",
+    "projects"  : "End-to-end ML · AQI Prediction · Data Pipelines · Dashboards",
+    "platforms" : "Hopsworks · Streamlit · GitHub Actions",
+    "open_to"   : ["Internships", "Junior ML Roles", "Data Science", "Collaborative Projects"],
+}
+```
 
 ---
 
-## 🌫️ Featured Project
+## ⚙️ Projects
 
-### AQI Predictor
+### 🌫️ AQI Prediction & Forecasting System
 
-An end-to-end **Air Quality Index prediction and forecasting system** for:
+**End-to-end Machine Learning system for air-quality prediction across Sukkur, Karachi and Lahore.**
 
-- 🇵🇰 Sukkur
-- 🇵🇰 Karachi
-- 🇵🇰 Lahore
+OpenWeather API → Feature Engineering → Scikit-learn → Hopsworks Feature Store → Model Registry → Streamlit Dashboard
 
-The project collects environmental data, performs feature engineering, trains machine learning models, and provides current AQI predictions and future forecasts.
+**Current AQI Prediction**
 
-**Technologies used:**
+* Ridge Regression
+* PM2.5, PM10 and other pollutant features
+* Weather features
+* Automated feature pipeline
 
-`Python` `Pandas` `Scikit-learn` `OpenWeather API` `Hopsworks` `Streamlit` `GitHub Actions`
+**AQI Forecasting**
 
-### Project Features
+* 24h forecast
+* 48h forecast
+* 72h forecast
+* Random Forest models
+* Historical AQI lag and rolling features
 
-- 🌍 Real-time air pollution data
-- 🌦️ Weather data integration
-- 📊 Feature engineering
-- 🤖 Machine learning models
-- 📈 Current AQI prediction
-- 🔮 24h, 48h & 72h AQI forecasting
-- ☁️ Hopsworks Feature Store
-- 🧠 Hopsworks Model Registry
-- ⚙️ Automated hourly feature pipeline
-- 📱 Streamlit dashboard
+**Infrastructure**
+
+* Hopsworks Feature Store
+* Hopsworks Model Registry
+* GitHub Actions hourly pipeline
+* Streamlit deployed dashboard
+* Automated data ingestion
 
 ---
 
-## 📚 Currently Learning
+### 📊 Data Science & Machine Learning
 
-```text
-Data Science
-    ↓
-Machine Learning
-    ↓
-Model Deployment
-    ↓
-MLOps
-    ↓
-Real-World ML Projects
+Working with real-world datasets and ML workflows including:
 
-## 📫 Connect With Me
+* Data cleaning & preprocessing
+* Exploratory Data Analysis
+* Feature engineering
+* Regression models
+* Model comparison
+* RMSE, MAE & R² evaluation
+* Data visualization
+* API-based data collection
 
-- GitHub: @BharatKumar292
+---
+
+## 🧰 Stack
+
+### 🧠 Data Science & Machine Learning
+
+**Python** · **Pandas** · **NumPy** · **Scikit-learn** · **Matplotlib**
+
+Regression · Classification · Feature Engineering · Model Evaluation · Data Analysis
+
+### 💻 Programming
+
+**Python** · **Java** · **C++** · **SQL**
+
+### 🌐 Web Development
+
+**HTML** · **CSS** · **JavaScript** · **React** · **Vite** · **Streamlit**
+
+### ☁️ Cloud & MLOps
+
+**Hopsworks** · **GitHub Actions** · **Git** · **GitHub** · **REST APIs**
+
+### 🗄️ Databases
+
+**MySQL** · **MongoDB**
+
+### 🌐 Networking
+
+**Cisco Packet Tracer** · **TCP/IP** · **Computer Networks**
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BharatKumar292&show_icons=true&theme=dark&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BharatKumar292&theme=dark&hide_border=true" />
+
+</div>
+
+---
+
+> **Building practical projects with data, machine learning, and software.**
+
+<div align="center">
+
+**GitHub** · **LinkedIn** · **Portfolio**
+
+</div>
